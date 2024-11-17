@@ -1,5 +1,5 @@
-#Simple Bash Calculator Script
-
+# Simple Bash Calculator Script
+ 
 ## Description  
 This is a basic Bash script that demonstrates a simple calculator functionality. It allows the user to perform addition, subtraction, multiplication, and division operations on two numbers entered by the user. The script also displays all results at the end.
 
